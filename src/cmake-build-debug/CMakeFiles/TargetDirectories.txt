@@ -1,0 +1,3 @@
+/home/fernando/telemetry_practice/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fernando/telemetry_practice/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fernando/telemetry_practice/src/cmake-build-debug/CMakeFiles/telemetry_practice.dir

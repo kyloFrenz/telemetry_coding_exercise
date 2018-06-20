@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/telemetry_practice.dir/main.cpp.o CMakeFiles/telemetry_practice.dir/DataReader.cpp.o CMakeFiles/telemetry_practice.dir/RecordWindow.cpp.o CMakeFiles/telemetry_practice.dir/DataRecord.cpp.o CMakeFiles/telemetry_practice.dir/Logger.cpp.o  -o telemetry_practice 
